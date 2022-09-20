@@ -1,1 +1,1 @@
->This repository contains code that was used to explore discovery prospects for $\tilde{\tau^{\pm}}$ production at LHC. We consider a squeezed
+>This repository contains code that was used to explore discovery prospects for $\tilde{\tau}^\pm$ production at LHC. We consider a squeezed $(\tilde{\tau}^\pm, \tilde{\chi}^0)$ spectrum with the mass gap ranging in (20, 50) GeV.
